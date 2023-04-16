@@ -1,9 +1,9 @@
 :root {
-  --bedroom1-color: #e91e63;
-  --bedroom2-color: #ff9800;
-  --livingroom-color: #8bc34a;
-  --bathroom-color: #03a9f4;
-  --kitchen-color: #00bcd4;
+  --bedroom1-color: #c4e91e;
+  --bedroom2-color: #ff009d;
+  --livingroom-color: #c3a34a;
+  --bathroom-color: #2703f4;
+  --kitchen-color: #d41900;
 }
 
 .room-view > .mdl-card__title {
